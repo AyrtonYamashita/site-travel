@@ -1,0 +1,145 @@
+:root {
+  font-family: "Open Sans", serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f5f4f0;
+}
+
+header {
+  color: #e1624f;
+}
+
+header,
+p,
+#subtitle {
+  font-size: 16px;
+}
+
+p {
+  font-weight: 100;
+  text-align: justify;
+  color: #333333;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: bold;
+  color: #1b1b1b;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 32px;
+  margin-top: 2px;
+  margin-bottom: 8px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+header {
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+img {
+  border-radius: 28px;
+  max-width: 100%;
+}
+
+ol,
+ul {
+  font-weight: bold;
+  flex-wrap: nowrap;
+  list-style-position: inside;
+  color: #333333;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+footer {
+  text-align: center;
+  color:#333333
+}
+
+footer img {
+  vertical-align: middle;
+}
+
+#history {
+  color: #0c51a7;
+}
+
+#casal {
+  color: #591b98;
+}
+
+#family {
+  color: #e5245e;
+}
+
+#money {
+  color: #e95e10;
+}
+
+#footer-desc {
+  text-align: center;
+}
+
+#div-footer {
+  margin: 40px 0 40px 0;
+}
+
+#img1 {
+  height: 660px;
+  margin-bottom: 24px;
+}
+
+#subtitle {
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+#content-list,
+#list {
+  margin-top: 64px;
+}
+
+#card-travel {
+  margin-top: 48px;
+}
+
+#content-card {
+  margin-top: 20px;
+}
+
+#description {
+  margin-top: 4px;
+}
+
+#img-list {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  object-position: center bottom;
+}
+
+.container {
+  margin: 88px 80px;
+  width: 1120px;
+}
